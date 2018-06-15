@@ -1,0 +1,61 @@
+﻿  Bullets.cpp
+Bullets.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Bullets.cpp(56): warning C4018: '<': signed/unsigned mismatch
+Bullets.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Bullets.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Bullets.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Bullets.cpp(86): warning C4018: '<': signed/unsigned mismatch
+Bullets.cpp(93): warning C4018: '>=': signed/unsigned mismatch
+  Cube.cpp
+  Enemy.cpp
+Enemy.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Enemy.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Fruit.cpp
+Fruit.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Fruit.cpp(84): warning C4018: '<': signed/unsigned mismatch
+Fruit.cpp(105): warning C4018: '<': signed/unsigned mismatch
+Fruit.cpp(112): warning C4018: '>=': signed/unsigned mismatch
+Fruit.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(140): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Fruit.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  Ground.cpp
+  Main.cpp
+  Material.cpp
+  Mesh.cpp
+  Particles.cpp
+  Scene.cpp
+Scene.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Scene.cpp(287): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Scene.cpp(288): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Scene.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vehicle.cpp
+Vehicle.cpp(84): warning C4018: '<': signed/unsigned mismatch
+Vehicle.cpp(112): warning C4018: '<': signed/unsigned mismatch
+Vehicle.cpp(124): warning C4018: '<': signed/unsigned mismatch
+Vehicle.cpp(131): warning C4018: '>=': signed/unsigned mismatch
+Vehicle.cpp(141): warning C4018: '<': signed/unsigned mismatch
+Vehicle.cpp(155): warning C4018: '>=': signed/unsigned mismatch
+Vehicle.cpp(351): warning C4553: '==': operator has no effect; did you intend '='?
+Vehicle.cpp(382): warning C4553: '==': operator has no effect; did you intend '='?
+  Walls.cpp
+  glew.c
+  Generating code
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(371): warning C4715: 'Vehicle::Counting': not all control paths return a value
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(164): warning C4715: 'Vehicle::GetBModelMatrix': not all control paths return a value
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\enemy.cpp(74): warning C4715: 'Enemy::Update': not all control paths return a value
+  All 1243 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PGG_ViewingMovingObjects.vcxproj -> H:\PGG\Assignment\PGG_Lab7-8_v1 - V15 - More Particles - Copy\Release\PGG_ViewingMovingObjects.exe
+  PGG_ViewingMovingObjects.vcxproj -> H:\PGG\Assignment\PGG_Lab7-8_v1 - V15 - More Particles - Copy\Release\PGG_ViewingMovingObjects.pdb (Full PDB)

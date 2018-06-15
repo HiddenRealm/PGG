@@ -1,0 +1,28 @@
+﻿  Vehicle.cpp
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(84): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(112): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(124): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(131): warning C4018: '>=': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(141): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(155): warning C4018: '>=': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(258): error C2601: 'Vehicle::Wall': local function definitions are illegal
+  h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): note: this line contains a '{' which has not yet been matched
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(290): error C2601: 'Vehicle::FCol': local function definitions are illegal
+  h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): note: this line contains a '{' which has not yet been matched
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(316): error C2601: 'Vehicle::ECol': local function definitions are illegal
+  h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): note: this line contains a '{' which has not yet been matched
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(342): error C2601: 'Vehicle::Counting': local function definitions are illegal
+  h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): note: this line contains a '{' which has not yet been matched
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(373): error C2601: 'Vehicle::Counting2': local function definitions are illegal
+  h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): note: this line contains a '{' which has not yet been matched
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\vehicle.cpp(167): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  Main.cpp
+  Bullets.cpp
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(56): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(86): warning C4018: '<': signed/unsigned mismatch
+h:\pgg\assignment\pgg_lab7-8_v1 - v15 - more particles - copy\pgg_viewingmovingobjects\bullets.cpp(93): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...

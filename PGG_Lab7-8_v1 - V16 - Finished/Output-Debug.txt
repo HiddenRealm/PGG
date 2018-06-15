@@ -1,0 +1,98 @@
+﻿'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'W:\PGG\Assignment\PGG_Lab7-8_v1 - V5 -Better Collision & Bullets & Objects\Debug\PGG_ViewingMovingObjects.exe'. Symbols loaded.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\lpk.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\usp10.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ddraw.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dciman32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'W:\PGG\Assignment\PGG_Lab7-8_v1 - V5 -Better Collision & Bullets & Objects\Debug\SDL2.dll'. Module was built without symbols.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Program Files\Immidio\Flex Profiles\FlexHook32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\userenv.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\Wldap32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvoglv32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\advapi32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\gdi32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+The thread 0x3a44 has exited with code 0 (0x0).
+The thread 0x201c has exited with code 0 (0x0).
+The thread 0x4738 has exited with code 0 (0x0).
+The thread 0x418c has exited with code 0 (0x0).
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\shell32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvspcap.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winhttp.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\webio.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\powrprof.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winsta.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msctf.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ole32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msctf.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msctf.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d9.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d8thk.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvd3dum.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\shell32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvapi.dll'. Cannot find or open the PDB file.
+The thread 0x46bc has exited with code 0 (0x0).
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\user32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\advapi32.dll'
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'PGG_ViewingMovingObjects.exe' (Win32): Loaded 'C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI.dll'. Cannot find or open the PDB file.
+The thread 0x37c0 has exited with code 0 (0x0).
+The thread 0x3930 has exited with code 0 (0x0).
+The thread 0x465c has exited with code 0 (0x0).
+The thread 0x4590 has exited with code 0 (0x0).
+The thread 0x3898 has exited with code 0 (0x0).
+The thread 0x4238 has exited with code 0 (0x0).
+The program '[17220] PGG_ViewingMovingObjects.exe' has exited with code 0 (0x0).
